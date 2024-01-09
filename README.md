@@ -50,7 +50,3 @@ After some calls the data can be aggregated in the findings table.
 php PhraseFinder.php store 2023-09-01 2023-09-02 google 
 ```
 Results are then available in the WiFindings Table for classification by further modules or expert classification and storing the result in the “type” variable.
-
-## Licence
-This software is available under the EUPL 1.2 open source license:
-https://joinup.ec.europa.eu/collection/eupl/solution/eupl-freeopen-source-software-licence-european-union/releases
