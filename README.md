@@ -23,8 +23,9 @@ npm install googleapis express
 ```
 npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
 ```
--	create keys.json: Activate the Google Sheet API via the Google Cloud Console, create a service account and then a JSON key for this account (rename to keys.json if necessary) and place the file in the Meta AdCrawler directory.
--	
+-	Create keys.json: Activate the Google Sheet API via the Google Cloud Console, create a service account and then a JSON key for this account (rename to keys.json if necessary) and place the file in the Meta AdCrawler directory.
+-	Specify the proxy URL, user, password and Google Sheets ID in ads-library_git.js.
+-	Start Meta AdCrawler with node ```.\ads-library_git.js```
 
 ## How it works
 
