@@ -3,7 +3,7 @@
 ## Project Description
 The Fraud Seeker AdCrawler searches the meta ad library for specific text phrases and thus helps us with the automated detection of fraudulent ads on Facebook or Instagram. The continuous monitoring of the meta ad library allows us to detect scammers early and rapidly warn consumers of fraudulent ads.
 
-The Fraud Seeker AdCrawler was developed by [ÖIAT (Austrian Institute for Applied Telecommunication)](https://oiat.at/) together with [XYLEM Technologies](https://www.xylem-technologies.com/) and realized with funds provided by [netidee](https://www.netidee.at/).  
+The Fraud Seeker AdCrawler was developed by [ÖIAT (Austrian Institute for Applied Telecommunication)](https://oiat.at/) and realized with funds provided by [netidee](https://www.netidee.at/).  
 
 ## Requirements
 -	node.js
